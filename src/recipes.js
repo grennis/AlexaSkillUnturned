@@ -335,7 +335,7 @@ module.exports = {
  "planter": "331",
  "fertilizer": "332",
  "binoculars": "333",
- "military nightvision": "334",
+ "nightvision goggles": "334",
  "corn": "335",
  "corn seed": "336",
  "canteen": "337",

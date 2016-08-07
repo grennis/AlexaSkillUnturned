@@ -324,7 +324,7 @@ Carrot Seed
 Planter
 Fertilizer
 Binoculars
-Military Nightvision
+Nightvision Goggles
 Corn
 Corn Seed
 Canteen
