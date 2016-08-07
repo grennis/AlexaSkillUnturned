@@ -1,0 +1,6 @@
+RecipeIntent what is the item i d of {Item}
+RecipeIntent what is the item i d for {Item}
+RecipeIntent what is the item of {Item}
+RecipeIntent what is the item for {Item}
+RecipeIntent what is the i d for {Item}
+RecipeIntent what is the i d of {Item}
